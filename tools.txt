@@ -1,0 +1,7 @@
+1)Tools
+
+Repository: GitHub
+Language: Python 3.11
+Libraries: numpy, tensorflow, keras
+
+2)Models/designs
