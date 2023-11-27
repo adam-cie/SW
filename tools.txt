@@ -2,6 +2,10 @@
 
 Repository: GitHub
 Language: Python 3.11
-Libraries: numpy, tensorflow, keras
+Libraries: numpy, tensorflow, keras, scikit-learn
+Applications: google spreadsheet, VScode
 
 2)Models/designs
+Graph embedings model: metapath2vec
+ - used in constructing FlavourGraph
+ - 
